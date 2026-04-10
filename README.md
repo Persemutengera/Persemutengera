@@ -1,7 +1,7 @@
 ## Hi there 👋 My name is Perseverance Mutengera
 
 # 💫 About Me:
-I am a graduate of the ALX Software Engineering Program, where my journey into the world of software engineering began. I am passionate about web and mobile technology and I specialize in backend technologies. My goal is to leverage my skills and experiences to create impactful and innovative solutions.
+I am a graduate of Bachelor of Science in Computing and the ALX Software Engineering Program alumni, where my journey into the world of software engineering began. I am passionate about web and mobile technology and I specialize in full stack development technologies. My goal is to leverage my skills and experiences to create impactful and innovative solutions.
 
 
 ## 🌐 Socials:
