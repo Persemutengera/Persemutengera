@@ -1,7 +1,13 @@
 ## Hi there 👋 My name is Perseverance Mutengera
 
 # 💫 About Me:
-I am a graduate of Bachelor of Science in Computing and the ALX Software Engineering Program alumni, where my journey into the world of software engineering began. I am passionate about web and mobile technology and I specialize in full stack development technologies. My goal is to leverage my skills and experiences to create impactful and innovative solutions.
+I am a Data Analyst and Software Engineer with a Bachelor of Science in Computing and an ALX Software Engineering Program background. My journey combines data analytics, software development, and problem-solving, with a strong focus on transforming data into meaningful insights and building practical technology solutions.
+
+I specialize in Data Analytics, SQL, Excel, Power BI, Python, data cleaning, exploratory data analysis (EDA), data visualization, and dashboard development. I enjoy working with datasets to uncover trends, identify patterns, and communicate insights that support better decision-making.
+
+Alongside data analytics, I have a strong foundation in full-stack web and mobile development, with experience working with technologies such as JavaScript, React, Node.js, Python, REST APIs, databases, and Git.
+
+My goal is to combine data, technology, and software engineering to create impactful solutions, solve real-world problems, and continuously expand my skills in data analytics and technology.
 
 
 ## 🌐 Socials:
